@@ -1,0 +1,31 @@
+# Portfolio Project: Sales Data Analysis
+
+## Overview
+This Power BI report presents an analysis of sales data, providing insights into trends, product performance, and customer behavior.
+
+## Data Import and Preprocessing
+- Imported dataset from Google Sheets.
+- Cleaned the dataset by removing duplicates and handling missing values.
+- Created calculated columns for total sales and average ratings.
+
+## Visualizations
+1. **Bar Chart**: Sales by Category
+2. **Line Chart**: Monthly Sales Trend
+3. **Pie Chart**: Market Share by Product
+4. **Table**: Detailed Sales Figures
+5. **Map Visual**: Geographical Sales Distribution
+6. **Slicer**: Filter by Date or Category
+7. **Card Visual**: Total Sales Overview
+
+## Interactive Features
+- Navigation buttons for report sections.
+- Bookmarks to highlight key insights.
+- Integrated images for visual enhancement.
+
+## Insights
+- Sales peaked during the holiday season, indicating seasonal buying behavior.
+- Product A consistently outperformed other products, suggesting strong brand loyalty.
+- Customer demographics indicate a shift towards younger buyers, impacting marketing strategies.
+
+## Conclusion
+This project demonstrates proficiency in data analysis using Power BI, showcasing key insights and a well-organized report layout.
